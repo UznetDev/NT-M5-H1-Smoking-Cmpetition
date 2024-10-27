@@ -143,7 +143,7 @@ This project is licensed under the [MIT](LICENCE) License.
 ## Contact's
 
 If you have any questions or suggestions, please contact:
-- Email: uznetdev@example.com
+- Email: uznetdev@gmail.com
 - GitHub Issues: [Issues section](https://github.com/UznetDev/NT-M5-H1-Smoking-Cmpetition/issues)
 - GitHub Profile: [UznetDev](https://github.com/UznetDev/)
 - Telegram: [UZNet_Dev](https://t.me/UZNet_Dev)
