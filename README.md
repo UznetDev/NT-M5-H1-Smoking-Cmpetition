@@ -21,13 +21,6 @@ NT-M5-H1-Smoking-Cmpetition/
 ├── requirements.txt         # List of required libraries and dependencies
 └── README.md                # Project documentation
 ```
-
-### Files and Folders
-
-- **data/**: Contains training and testing datasets.
-- **notebooks/**: Jupyter notebooks detailing data analysis, feature engineering, model training, and evaluation steps.
-- **src/**: Python scripts for data preprocessing, feature engineering, and model building.
-- **requirements.txt**: Lists all dependencies needed to run the code in this repository.
   
 ## Installation
 
