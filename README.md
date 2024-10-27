@@ -18,6 +18,7 @@ The goal of this project is to predict whether an individual is a smoker based o
 ```
 NT-M5-H1-Smoking-Cmpetition/
 ├── notebooks/               # Jupyter notebooks for data analysis and modeling
+├── data/                    # datasets for usage model
 ├── requirements.txt         # List of required libraries and dependencies
 ├── smoking_model.joblib     # Finla model for prediction
 └── README.md                # Project documentation
