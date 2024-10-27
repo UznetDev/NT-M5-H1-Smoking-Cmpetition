@@ -74,13 +74,12 @@ The project explores multiple machine learning algorithms for classification:
 
 ### Hyperparameter Tuning
 
-To find the best parameters for the models, this project utilizes grid search and cross-validation methods, specifically focusing on maximizing ROC-AUC scores to improve model performance.
+To find the best parameters for the models, this project utilizes optuna and cross-validation methods, specifically focusing on maximizing ROC-AUC scores to improve model performance.
 
 ## Evaluation
 
 The models are evaluated based on the following metrics:
 - **ROC-AUC Score**: Primary metric to assess model performance in terms of distinguishing between smokers and non-smokers.
-- **Accuracy**: Secondary metric to check the overall correctness of the predictions.
 
 ## Usage
 
