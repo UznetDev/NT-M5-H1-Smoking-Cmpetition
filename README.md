@@ -70,11 +70,6 @@ The `smoking_model.joblib` file contains a pre-trained model created with `sciki
 
 **Note:** The example input (`X_new`) should be replaced with real data according to your project requirements.
 
-### About the Model
-
-This model was developed to predict smoking status using health-related features. For more details, refer to the main directory of the project for additional code and documentation.
-
-
 ## Dataset
 
 The dataset consists of several features related to individuals' health, including:
