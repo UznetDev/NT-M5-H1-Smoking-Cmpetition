@@ -147,7 +147,7 @@ If you have any questions or suggestions, please contact:
 - GitHub Issues: [Issues section](https://github.com/UznetDev/NT-M5-H1-Smoking-Cmpetition/issues)
 - GitHub Profile: [UznetDev](https://github.com/UznetDev/)
 - Telegram: [UZNet_Dev](https://t.me/UZNet_Dev)
-- Linkedin: [Abdurahmon Niyozaliev](https://www.linkedin.com/in/abdurakhmon-niyozaliyev-%F0%9F%87%B5%F0%9F%87%B8-66545222a/)
+- Linkedin: [Abdurakhmon Niyozaliev](https://www.linkedin.com/in/abdurakhmon-niyozaliyev-%F0%9F%87%B5%F0%9F%87%B8-66545222a/)
 
 ---
 
