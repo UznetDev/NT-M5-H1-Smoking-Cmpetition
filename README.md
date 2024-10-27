@@ -137,7 +137,7 @@ Contributions are welcome! If you'd like to improve this project, please fork th
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](LICENCE) License.
 
 ## Contact's
 
