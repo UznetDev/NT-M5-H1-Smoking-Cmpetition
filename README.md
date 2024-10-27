@@ -40,6 +40,41 @@ To run this project locally, follow these steps:
    pip install -r requirements.txt
    ```
 
+### Usage
+
+To load and use the model for prediction, follow these steps:
+
+```python
+from joblib import load
+
+# Load the model
+model = load('smoking_model.joblib')
+
+# Define input data (X) for prediction
+# Example input data for one individual
+X_new = []  # Replace with actual input values
+
+# Predict smoking status
+prediction = model.predict(X_new)
+
+# Display the result
+if prediction[0] == 1:
+    print("This individual is likely a smoker.")
+else:
+    print("This individual is likely a non-smoker.")
+```
+
+### Model Details
+
+The `smoking_model.joblib` file contains a pre-trained model created with `scikit-learn`. You can use the `predict` function to determine smoking status based on input health measurements.
+
+**Note:** The example input (`X_new`) should be replaced with real data according to your project requirements.
+
+### About the Model
+
+This model was developed to predict smoking status using health-related features. For more details, refer to the main directory of the project for additional code and documentation.
+
+
 ## Dataset
 
 The dataset consists of several features related to individuals' health, including:
