@@ -111,11 +111,9 @@ The models are evaluated based on the following metrics:
 1. **Exploratory Data Analysis (EDA)**: Start with EDA notebooks in the `notebooks/` folder to understand the dataset and visualize patterns.
 2. **Model Training**: Run the scripts or notebooks to train the models and evaluate their performance.
 3. **Hyperparameter Tuning**: Use the scripts for hyperparameter tuning to improve model accuracy.
-4. **Prediction**: Generate predictions on the test set using the trained model.
+4. **Save nodel**: save model in 'model.joblib.
 
-## Results
 
-The best model achieved a **ROC-AUC score of X.XX** on the validation set. Further improvements could be made by exploring additional features or using advanced ensemble techniques.
 
 ## Contributing
 
